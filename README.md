@@ -1,0 +1,2 @@
+# CSGO
+csgo config files
